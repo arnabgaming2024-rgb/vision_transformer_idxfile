@@ -1,1 +1,1 @@
-# vision_transformer_idxfile
+# EMNIST (Extended MNIST) Dataset (vision_transformer_idxfile)
